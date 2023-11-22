@@ -1,26 +1,23 @@
 ---
 layout: page
-title: About
+title: Welcome to my homepage!
 permalink: /about/
 ---
-
 ## About me
 
 I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-E-mail: <br>
-lhe21@mails.tsinghua.edu.cn <br>
+E-mail: `<br>`
+lhe21@mails.tsinghua.edu.cn `<br>`
 
 [curriculum vitae](documents/main.pdf)
-
 
 ## Education
 
 - (2021.9-2025.6, expected) B.Sc. in **Chemistry**, Tsinghua University (advisor: Han-Shi Hu)
 - (2022.9-2025.6, expected) Minor Degree in **Pure and Applied Mathematics**, Tsinghua University
 
-
-##  Research Interests
+## Research Interests
 
 **Quantum Computing:** Quantum algorithms for science; Theory of quantum information & computing;
 
@@ -38,11 +35,11 @@ lhe21@mails.tsinghua.edu.cn <br>
 
 - **(Oct. 2023)** Jiang Nanxiang Scholarship
 - **(Sep. 2023)** Youth Student Basic Research Program of National Natural Science Foundation of China
-- **(Sep. 2023)** Excellent Student Cadre of Tsinghua University 
+- **(Sep. 2023)** Excellent Student Cadre of Tsinghua University
 - **(Dec. 2022)** Scholarship of Tsinghua Xuetang Talents Program
-- **(Dec. 2022)** Excellent Comprehensive Scholarship of Tsinghua University 
-- **(Dec. 2022)** Excellent Academic Scholarship of Tsinghua University 
-- **(Sep. 2021)** Second-Class Freshmen Scholarship of Tsinghua University 
+- **(Dec. 2022)** Excellent Comprehensive Scholarship of Tsinghua University
+- **(Dec. 2022)** Excellent Academic Scholarship of Tsinghua University
+- **(Sep. 2021)** Second-Class Freshmen Scholarship of Tsinghua University
 - **(Nov.2020)** Gold in Chinese Chemistry Olympiad (final), 2020 (34th CChO)
 
 ## Serving Experience
