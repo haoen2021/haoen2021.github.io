@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Notes
+title: Notes
 permalink: /docs/
 ---
 ### Abstract Algebra (2022 Fall)
