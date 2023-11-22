@@ -6,7 +6,7 @@ I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua Universi
 
 E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 
-See the [About](about.md) to know more about me or see my [curriculum vitae](documents/main.pdf) for detailed information.
+See the [About](about.md) module to know more about me or see my [curriculum vitae](documents/main.pdf) for detailed information.
 
 ## Education
 
