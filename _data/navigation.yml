@@ -1,5 +1,7 @@
 - title: About
   url: /about/
+- title: Notes
+  url: /docs/
 #- title: Years
 #  url: /years/
 #- title: Categories
@@ -10,5 +12,4 @@
 #  sublinks:
 #    - title: FAQ
 #      url: /faq/
-    - title: Notes
-      url: /docs/
+    
