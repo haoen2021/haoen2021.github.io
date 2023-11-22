@@ -1,0 +1,50 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+## About me
+
+I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
+
+E-mail: <br>
+lhe21@mails.tsinghua.edu.cn <br>
+
+[curriculum vitae](documents/main.pdf)
+
+
+## Education
+
+- (2021.9-2025.6, expected) B.Sc. in **Chemistry**, Tsinghua University (advisor: Han-Shi Hu)
+- (2022.9-2025.6, expected) Minor Degree in **Pure and Applied Mathematics**, Tsinghua University
+
+
+##  Research Interests
+
+**Quantum Computing:** Quantum algorithms for science; Theory of quantum information & computing;
+
+**Quantum Chemistry:** Wave function methods; Neural-network quantum state (NQS);
+
+**Quantum Many-body Physics:** Tensor network state (TNS); Quantum Monte Carlo;
+
+## Publications
+
+- Xiang Li, Jia-Cheng Huang, Guang-Ze Zhang, **Hao-En Li**, Chang-Su Cao, Dingshun Lv, and Han-Shi Hu,
+  “[A Nonstochastic Optimization Algorithm for Neural-Network Quantum States](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00831),” **J. Chem. Theory**
+  **Comput. 2023, ASAP.**
+
+## Scholarships and Awards
+
+- **(Oct. 2023)** Jiang Nanxiang Scholarship
+- **(Sep. 2023)** Youth Student Basic Research Program of National Natural Science Foundation of China
+- **(Sep. 2023)** Excellent Student Cadre of Tsinghua University 
+- **(Dec. 2022)** Scholarship of Tsinghua Xuetang Talents Program
+- **(Dec. 2022)** Excellent Comprehensive Scholarship of Tsinghua University 
+- **(Dec. 2022)** Excellent Academic Scholarship of Tsinghua University 
+- **(Sep. 2021)** Second-Class Freshmen Scholarship of Tsinghua University 
+- **(Nov.2020)** Gold in Chinese Chemistry Olympiad (final), 2020 (34th CChO)
+
+## Serving Experience
+
++ **(2022.10 - Now)** Assistant at [**Drop-in Tutoring for STEM Courses**](https://learning.tsinghua.edu.cn/info/1077/1260.htm) of [**Tsinghua University Center for Student Learning and Development**](https://learning.tsinghua.edu.cn/info/1159/1389.htm) (*Excellent assistant* in 2023 Spring)
