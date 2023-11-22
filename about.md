@@ -43,4 +43,4 @@ E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 
 ## Serving Experience
 
-+ **(2022.10 - Now)** Assistant at [**Drop-in Tutoring for STEM Courses**](https://learning.tsinghua.edu.cn/info/1077/1260.htm) of [**Tsinghua University Center for Student Learning and Development**](https://learning.tsinghua.edu.cn/info/1159/1389.htm) (*Excellent assistant* in 2023 Spring)
++ **(2022.10 - Now)** Special grade assistant at [**Drop-in Tutoring for STEM Courses**](https://learning.tsinghua.edu.cn/info/1077/1260.htm) of [**Tsinghua University Center for Student Learning and Development**](https://learning.tsinghua.edu.cn/info/1159/1389.htm) (*Excellent assistant* in 2023 Spring)
