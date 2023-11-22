@@ -7,8 +7,7 @@ permalink: /about/
 
 I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-E-mail: `<br>`
-lhe21@mails.tsinghua.edu.cn `<br>`
+E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 
 [curriculum vitae](documents/main.pdf)
 
