@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Docs
+title: Learning Notes
 permalink: /docs/
 ---
-
 ### Abstract Algebra (2022 Fall)
 
 These Chinese notes were taken when I attended the Tsinghua course lectured by Prof. Minxian Zhu in 2022 Fall.
@@ -21,4 +20,3 @@ These were solutions to Stein's book on *Real Analysis* written by me when I att
 + [Chp4. Hilbert Space](documents/4hilbert.pdf)
 + [Chp6. Abstract Measure and Integration Theory](documents/6abstract.pdf)
 + [final exam](documents/final.pdf)
-
