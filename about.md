@@ -39,7 +39,7 @@ E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 - **(Dec. 2022)** Excellent Comprehensive Scholarship of Tsinghua University
 - **(Dec. 2022)** Excellent Academic Scholarship of Tsinghua University
 - **(Sep. 2021)** Second-Class Freshmen Scholarship of Tsinghua University
-- **(Nov.2020)** Gold in Chinese Chemistry Olympiad (final), 2020 (34th CChO)
+- **(Nov. 2020)** Gold in Chinese Chemistry Olympiad (final), 2020 (34th CChO)
 
 ## Serving Experience
 
