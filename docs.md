@@ -16,7 +16,7 @@ These Chinese notes were taken when I attended the Tsinghua course lectured by P
 These were solutions to Stein's book on *Real Analysis* written by me when I attended the Tsinghua course lectured by Prof. Yong Lin in 2023 Spring.
 
 + [Chp2. Integration Theory](documents/2integral.pdf)
-+ [Chp3. Differentiation and Integration](documents/3differientiation.pdf)
++ [Chp3. Differentiation and Integration](documents/3differentiation.pdf)
 + [Chp4. Hilbert Space](documents/4hilbert.pdf)
 + [Chp6. Abstract Measure and Integration Theory](documents/6abstract.pdf)
 + [final exam](documents/final.pdf)
