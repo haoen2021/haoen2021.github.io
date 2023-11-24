@@ -9,7 +9,7 @@ I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua Universi
 
 E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 
-[curriculum vitae](documents/main.pdf)
+[curriculum vitae](documents/CV.pdf)
 
 ## Education
 
@@ -18,11 +18,8 @@ E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 
 ## Research Interests
 
-**Quantum Computing:** Quantum algorithms for science; Theory of quantum information & computing;
-
-**Quantum Chemistry:** Wave function methods; Neural-network quantum state (NQS);
-
-**Quantum Many-body Physics:** Tensor network state (TNS); Quantum Monte Carlo;
+**Quantum Computing and Quantum Chemistry**: Quantum algorithms for science; Wave function methods;
+Quantum many-body physics; Theory of quantum information & computing;
 
 ## Publications
 
