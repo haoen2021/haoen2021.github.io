@@ -20,3 +20,24 @@ These were solutions to Stein's book on *Real Analysis* written by me when I att
 + [Chp4. Hilbert Space](documents/4hilbert.pdf)
 + [Chp6. Abstract Measure and Integration Theory](documents/6abstract.pdf)
 + [final exam](documents/final.pdf)
+
+### Selected Topics in Computational Quantum Physics (2023 Fall, in progress)
+
+#### Course description
+
+This course, lectured by Prof. Shuo Yang, is a graduate course of Department of Physics, Tsinghua University, which is mainly open to graduate students or senior undergraduates majoring in condensed matter physics, atomic and molecular physics, theoretical physics, and other related majors. This course introduces modern computational approaches beyond conventional analytic and perturbative methods. The selected topics include, but are not limited to, **Exact Diagonalization, Density Matrix Renormalization Group, Quantum Monte Carlo, and Tensor Network methods, etc.** 
+
+#### Notes (in progress)
+
++ [notes on computational quantum physics](documents/STCQP.pdf)
+
+#### Codes (in progress)
+
++ This [github repo](https://github.com/haoen2021/Toy-models-in-Computational-Quantum-Physics) contains the coding homework of this course written by me.
++ contents:
+  + `0925_task` Exact Diagonalization of an extended Hubbard model using $\rm U(1)$ symmetry & time-evolution of a single-particle Gaussian wavepackage under a 1D tight-binding gradient field
+  + `1007_task` Exact Diagonalizaition for dispersion relation of transverse-field Ising model using $k$-sector symmetry
+  + `1016_task` Traditional finite DMRG for transverse-field Ising model
+  + `1023_task` Constructing MPO using finite size automata for a square-lattice spin model
+  + `1031_task` Variational MPS for open-boundary-conditioned 1D Ising cluster model
+  + `1106_task` 3-site iTEBD for an infinite 1D Ising cluster model
