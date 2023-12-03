@@ -3,7 +3,7 @@ layout: page
 title: Learning Notes
 permalink: /docs/
 ---
-# Abstract Algebra (2022 Fall)
+## Abstract Algebra (2022 Fall)
 
 These Chinese notes were taken when I attended the Tsinghua course lectured by Prof. Minxian Zhu in 2022 Fall.
 
@@ -11,7 +11,7 @@ These Chinese notes were taken when I attended the Tsinghua course lectured by P
 + [Ring theory](documents/抽象代数-环论 整理.pdf)
 + [Field theory](documents/抽象代数-域论 整理.pdf)
 
-# Measures and Integral (2023 Spring)
+## Measures and Integral (2023 Spring)
 
 These were solutions to Stein's book on *Real Analysis* written by me when I attended the Tsinghua course lectured by Prof. Yong Lin in 2023 Spring.
 
@@ -21,7 +21,7 @@ These were solutions to Stein's book on *Real Analysis* written by me when I att
 + [Chp6. Abstract Measure and Integration Theory](documents/6abstract.pdf)
 + [final exam](documents/final.pdf)
 
-# Selected Topics in Computational Quantum Physics (2023 Fall, in progress)
+## Selected Topics in Computational Quantum Physics (2023 Fall, in progress)
 
 ### Course description
 
