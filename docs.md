@@ -38,7 +38,7 @@ This course, lectured by Prof. Shuo Yang, is a graduate course of Department of 
   + `0925_task` Exact Diagonalization of an extended Hubbard model using $\rm U(1)$ symmetry & time-evolution of a single-particle Gaussian wavepackage under a 1D tight-binding gradient field [note (U(1) symmetry)](documents/0925_task1_report.pdf) [note (time evolution)](documents/0925_task2_report.pdf)
   + `1007_task` Exact Diagonalizaition for dispersion relation of transverse-field Ising model using $k$-sector symmetry [note](documents/1007_task_report.pdf)
   + `1016_task` Traditional finite DMRG for transverse-field Ising model [note](documents/1016_task_report.pdf)
-  + `1023_task` Constructing MPO using finite size automata for a square-lattice spin model [note](documents/1023_task_report.pdf)
+  + `1023_task` Constructing MPO using finite state automata for a square-lattice spin model [note](documents/1023_task_report.pdf)
   + `1031_task` Variational MPS for open-boundary-conditioned 1D Ising cluster model [note](documents/1031_task_report.pdf)
   + `1106_task` 3-site iTEBD for an infinite 1D Ising cluster model [note](documents/1106_task_report.pdf)
   + ``1113_task`` Classical Monte-Carlo for 2D classical Ising model [note](documents/1113_task_report.pdf)
