@@ -1,33 +1,11 @@
 ---
 layout: page
-title: Learning Notes
+title: Selected Topics in Computational Quantum Physics (2023 Fall, in progress)
 permalink: /docs/
 ---
-## Abstract Algebra (2022 Fall)
-
-These Chinese notes were taken when I attended the Tsinghua course lectured by Prof. Minxian Zhu in 2022 Fall.
-
-+ [Group theory](documents/抽象代数-群论 整理.pdf)
-+ [Ring theory](documents/抽象代数-环论 整理.pdf)
-+ [Field theory](documents/抽象代数-域论 整理.pdf)
-
-## Measures and Integral (2023 Spring)
-
-These were solutions to Stein's book on *Real Analysis* written by me when I attended the Tsinghua course lectured by Prof. Yong Lin in 2023 Spring.
-
-+ [Chp2. Integration Theory](documents/2integral.pdf)
-+ [Chp3. Differentiation and Integration](documents/3differentiation.pdf)
-+ [Chp4. Hilbert Space](documents/4hilbert.pdf)
-+ [Chp6. Abstract Measure and Integration Theory](documents/6abstract.pdf)
-+ [final exam](documents/final.pdf)
-
-## Selected Topics in Computational Quantum Physics (2023 Fall, in progress)
-
 ### Course description
 
 This course, lectured by Prof. Shuo Yang, is a graduate course of Department of Physics, Tsinghua University, which is mainly open to graduate students or senior undergraduates majoring in condensed matter physics, atomic and molecular physics, theoretical physics, and other related majors. This course introduces modern computational approaches beyond conventional analytic and perturbative methods. The selected topics include, but are not limited to, **Exact Diagonalization, Density Matrix Renormalization Group, Quantum Monte Carlo, and Tensor Network methods, etc.** 
-
-+ [see this page](pages/cqp.md)
 
 ### Notes (in progress)
 
