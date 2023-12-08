@@ -17,3 +17,14 @@ E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 
 **Quantum Computing and Quantum Chemistry**: Quantum algorithms for science; Wave function methods;
 Quantum many-body physics; Theory of quantum information & computing;
+
+<img src="C:\Users\HP\Documents\GitHub\haoen2021.github.io\guanzhong.jpg" style="zoom:33%;" />
+
+<center>吴冠中，《雪山》（1996），清华大学艺术博物馆藏</center>
+
+<center>“黄云万里动风色，白波九道流雪山”</center>
+
+
+
+
+
