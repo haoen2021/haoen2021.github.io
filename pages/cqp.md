@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Selected Topics in Computational Quantum Physics (2023 Fall, in progress)
-permalink: /docs/
+permalink: /cqp2023/
 ---
 ### Course description
 
