@@ -21,7 +21,7 @@ These were solutions to Stein's book on *Real Analysis* written by me when I att
 + [Chp6. Abstract Measure and Integration Theory](documents/6abstract.pdf)
 + [final exam](documents/final.pdf)
 
-## Selected Topics in Computational Quantum Physics (2023 Fall, in progress)
+## Selected Topics in Computational Quantum Physics (2023 Fall)
 
 ### Course description, Notes and Codes
 

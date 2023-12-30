@@ -7,11 +7,11 @@ permalink: /cqp2023/
 
 This course, lectured by Prof. Shuo Yang, is a graduate course of Department of Physics, Tsinghua University, which is mainly open to graduate students or senior undergraduates majoring in condensed matter physics, atomic and molecular physics, theoretical physics, and other related majors. This course introduces modern computational approaches beyond conventional analytic and perturbative methods. The selected topics include, but are not limited to, **Exact Diagonalization, Density Matrix Renormalization Group, Quantum Monte Carlo, and Tensor Network methods, etc.** 
 
-### Notes (in progress)
+### Notes
 
 + [notes on computational quantum physics](documents/STCQP.pdf)
 
-### Codes (in progress)
+### Codes
 
 + This [github repo](https://github.com/haoen2021/Toy-models-in-Computational-Quantum-Physics) contains the coding homework of this course written by me.
 + contents:
