@@ -4,7 +4,7 @@ Welcome to my homepage! Please feel free to look around.
 
 I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
+E-mail: `lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`；``haoen2021 (at) gmail (dot) com``
 
 **See the [About](about.md) module to know more about me or see my [curriculum vitae](documents/CV.pdf) for detailed information.**
 
@@ -18,13 +18,12 @@ E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
 **Quantum Computing and Quantum Chemistry**: Quantum algorithms for science; Wave function methods;
 Quantum many-body physics; Theory of quantum information & computing;
 
-<center><img src="guanzhong.jpg" style="zoom:33%;" /></center>
-
-<center>吴冠中，《雪山》（1996），清华大学艺术博物馆藏</center>
-
-<center>“黄云万里动风色，白波九道流雪山”</center>
-
-
+> <center><img src="guanzhong.jpg" style="zoom:33%;" /></center>
+>
+> <center>吴冠中，《雪山》（1996），清华大学艺术博物馆藏</center>
+>
+> <center>登高壮观天地间，大江茫茫去不还。
+> </center><center>黄云万里动风色，白波九道流雪山。</center>
 
 
 
