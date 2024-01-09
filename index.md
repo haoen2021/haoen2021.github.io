@@ -4,7 +4,11 @@ Welcome to my homepage! Please feel free to look around.
 
 I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-E-mail: `lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`；``haoen2021 (at) gmail (dot) com``
+E-mail:
+
+`lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`
+
+``haoenli2021 (at) gmail (dot) com``
 
 **See the [About](about.md) module to know more about me or see my [curriculum vitae](documents/CV.pdf) for detailed information.**
 

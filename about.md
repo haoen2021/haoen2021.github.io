@@ -7,7 +7,11 @@ permalink: /about/
 
 I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-E-mail: `lhe21 at mails dot tsinghua dot edu dot cn`
+E-mail:
+
+`lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`
+
+`haoenli2021 (at) gmail (dot) com`
 
 [curriculum vitae](documents/CV.pdf)
 
@@ -23,9 +27,7 @@ Quantum many-body physics; Theory of quantum information & computing;
 
 ## Publications
 
-- Xiang Li, Jia-Cheng Huang, Guang-Ze Zhang, **Hao-En Li**, Chang-Su Cao, Dingshun Lv, and Han-Shi Hu,
-  “[A Nonstochastic Optimization Algorithm for Neural-Network Quantum States](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00831),” **J. Chem. Theory**
-  **Comput. 2023, 19, 8156.**
+See [Publications](pubs.md)
 
 ## Scholarships and Awards
 
