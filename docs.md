@@ -3,8 +3,6 @@ layout: page
 title: Learning Notes
 permalink: /docs/
 ---
-[TOC]
-
 ## Abstract Algebra (2022 Fall)
 
 These Chinese notes were taken when I attended the Tsinghua course lectured by Prof. Minxian Zhu in 2022 Fall.
