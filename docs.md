@@ -26,3 +26,12 @@ These were solutions to Stein's book on *Real Analysis* written by me when I att
 ### Course description, Notes and Codes
 
 + [see this page](pages/cqp.md)
+
+## Numerical Analysis (2023 Fall)
+
+Referring to the lecture notes of Prof. Zhongyi Huang.
+
+Attention: This is the outcome of the preparation of my final exam, which is more or less a summary or outline, not a systematic notes for this course.
+
++ [Part 1: Numerical Linear Algebra](documents/NA1.pdf)
++ [Part 2: Interpolation, Approximation and Fitting, Quadrature and Numerical Solution of ODE](documents/NA2.pdf)
