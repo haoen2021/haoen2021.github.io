@@ -3,7 +3,7 @@ layout: page
 title: Welcome to my homepage!
 permalink: /about/
 ---
-## About me
+## About me🐦
 
 I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
@@ -15,21 +15,21 @@ E-mail:
 
 [curriculum vitae](documents/CV.pdf)
 
-## Education
+## Education🏫
 
-- (2021.9-2025.6, expected) B.Sc. in **Chemistry**, Tsinghua University (advisor: Han-Shi Hu)
-- (2022.9-2025.6, expected) Minor Degree in **Pure and Applied Mathematics**, Tsinghua University
+- **(2021.9-2025.6, expected)** B.Sc. in **Chemistry**, Tsinghua University (advisor: Han-Shi Hu)
+- **(2022.9-2025.6, expected)** Minor Degree in **Pure and Applied Mathematics**, Tsinghua University
 
-## Research Interests
+## Research Interests🤔
 
 **Quantum Computing and Quantum Chemistry**: Quantum algorithms for science; Wave function methods;
 Quantum many-body physics; Theory of quantum information & computing;
 
-## Publications
+## Publications📚
 
 See [Publications](pubs.md)
 
-## Scholarships and Awards
+## Scholarships and Awards🥇
 
 - **(Oct. 2023)** Jiang Nanxiang Scholarship
 - **(Sep. 2023)** Youth Student Basic Research Program of National Natural Science Foundation of China
@@ -40,6 +40,9 @@ See [Publications](pubs.md)
 - **(Sep. 2021)** Second-Class Freshmen Scholarship of Tsinghua University
 - **(Nov. 2020)** Gold in Chinese Chemistry Olympiad (final), 2020 (34th CChO)
 
-## Serving Experience
+## Serving Experience😊
 
 + **(2022.10 - Now)** Special grade assistant at [**Drop-in Tutoring for STEM Courses**](https://learning.tsinghua.edu.cn/info/1077/1260.htm) of [**Tsinghua University Center for Student Learning and Development**](https://learning.tsinghua.edu.cn/info/1159/1389.htm) (*Excellent assistant* in 2023 Spring)
++ **(2023.5 - Now)** Head of the Academic and Student Rights Department of the Student Union at Department of Chemistry, Tsinghua University (*Excellent Student Cadre of Tsinghua University* in 2023)
++ **(2023.8 - 2024.8, expected)** Editor of “*Chemistry Xuetang*” (化学学堂, the **WeChat offcial account publicity platform** of Tsinghua Xuetang Chemistry Program)
+
