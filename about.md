@@ -13,7 +13,7 @@ E-mail:
 
 `haoenli2021 (at) gmail (dot) com`
 
-[curriculum vitae](documents/CV.pdf)
+[curriculum vitae](documents/CV.pdf) (Latest Updated: Feb. 2024)
 
 ## Education🏫
 
