@@ -35,3 +35,8 @@ Attention: This is the outcome of the preparation of my final exam, which is mor
 
 + [Part 1: Numerical Linear Algebra](documents/NA1.pdf)
 + [Part 2: Interpolation, Approximation and Fitting, Quadrature and Numerical Solution of ODE](documents/NA2.pdf)
+
+## Partial Differential Equation (2024)
+
++ [see this page](pages/pde.md)
+
