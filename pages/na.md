@@ -18,10 +18,10 @@ Attention: This is the outcome of the preparation of my final exam, which is mor
 These are Jupyter notebooks for demonstration of some classic algorithms on various topics in numerical analysis.
 
 + **Linear System**: Gaussian Elimination, Cholesky Decomposition, Tikhonov Regularization, CG and GMRES [code](na/c1.ipynb) [report](na/r1.pdf)
-+ **Nonlinear System**: Newton method, Steffensen's acceleration [code](c2.ipynb) [report](r2.pdf)
-+ **Eigensolver**: Jacobi method and QR method [code](c3.ipynb) [report](r3.pdf)
-+ **Interpolation**: Lagrange interpolation, piecewise linear interpolation and cubic spline interpolation [code](c4.ipynb) [report](r4.pdf)
-+ **Approximation**: Least-square approximation and truncated Chebyshev series [code](c5.ipynb) [report](r5.pdf)
-+ **Quadrature**: Complex Gauss-Legendre method, Romberg's method [code](c6.ipynb) [report](r6.pdf)
-+ **Numerical solution of ODE**: explicit and implicit RK4 [code](c7.zip) [report](r7.pdf)
++ **Nonlinear System**: Newton method, Steffensen's acceleration [code](na/c2.ipynb) [report](na/r2.pdf)
++ **Eigensolver**: Jacobi method and QR method [code](na/c3.ipynb) [report](na/r3.pdf)
++ **Interpolation**: Lagrange interpolation, piecewise linear interpolation and cubic spline interpolation [code](na/c4.ipynb) [report](na/r4.pdf)
++ **Approximation**: Least-square approximation and truncated Chebyshev series [code](na/c5.ipynb) [report](na/r5.pdf)
++ **Quadrature**: Complex Gauss-Legendre method, Romberg's method [code](na/c6.ipynb) [report](na/r6.pdf)
++ **Numerical solution of ODE**: explicit and implicit RK4 [code](na/c7.zip) [report](na/r7.pdf)
 
