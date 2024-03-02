@@ -39,7 +39,7 @@ These were solutions to Stein's book on *Real Analysis* written by me when I att
 
 ## Methods of Discrete Mathematics (2024 Spring)
 
-This course contains two parts: [graph theory]([Graph theory - Wikipedia](https://en.wikipedia.org/wiki/Graph_theory)) and [combinatorics]([Combinatorics - Wikipedia](https://en.wikipedia.org/wiki/Combinatorics)). These notes were taken in Chinese.
+This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and [combinatorics](https://en.wikipedia.org/wiki/Combinatorics). These notes were taken in Chinese.
 
 + [1. Introductory Concepts in Graph Theory](documents/graph1.pdf)
 
