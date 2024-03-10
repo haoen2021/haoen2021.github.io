@@ -12,6 +12,8 @@ E-mail:
 
 **See the [About](about.md) module to know more about me or see my [curriculum vitae](documents/CV.pdf) for detailed information.**
 
+**[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=zh-CN)**
+
 ## Education
 
 - (2021.9-2025.6, expected) B.Sc. in **Chemistry**, Tsinghua University (advisor: Han-Shi Hu)
@@ -19,8 +21,7 @@ E-mail:
 
 ## Research Interests
 
-**Quantum Computing and Quantum Chemistry**: Quantum algorithms for science; Wave function methods;
-Quantum many-body physics; Theory of quantum information & computing;
+**Quantum Chemistry and Electronic Structure Theory**: Wave function methods; Quantum algorithms for science; Quantum many-body physics; Theory of quantum information & computing;
 
 > <center><img src="guanzhong.jpg" style="zoom:33%;" /></center>
 >
