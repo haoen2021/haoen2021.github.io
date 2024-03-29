@@ -2,7 +2,7 @@ Welcome to my homepage! Please feel free to look around.
 
 ## About me
 
-I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
+My name is Haoen Li (李昊恩). I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
 E-mail:
 
@@ -16,12 +16,12 @@ E-mail:
 
 ## Education
 
-- (2021.9-2025.6, expected) B.Sc. in **Chemistry**, Tsinghua University (advisor: Han-Shi Hu)
+- (2021.9-2025.6, expected) B.Sc. in **Chemistry**, Tsinghua University (advisor: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en))
 - (2022.9-2025.6, expected) Minor Degree in **Pure and Applied Mathematics**, Tsinghua University
 
 ## Research Interests
 
-**Quantum Chemistry and Electronic Structure Theory**: Wave function methods; Quantum algorithms for science; Quantum many-body physics; Theory of quantum information & computing;
+**Quantum Chemistry and Electronic Structure Theory**: Wave function methods; Quantum many-body physics; Quantum algorithms for science; Theory of quantum information & computing;
 
 > <center><img src="guanzhong.jpg" style="zoom:33%;" /></center>
 >
