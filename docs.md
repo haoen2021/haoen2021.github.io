@@ -43,3 +43,4 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [1. Introductory Concepts in Graph Theory](documents/graph1.pdf)
 
++ [2. Trees and Spanning Trees](documents/graph2.pdf)
