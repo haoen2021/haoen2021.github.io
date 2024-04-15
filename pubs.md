@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications and Preprints
 permalink: /pubs/
 ---
 + Xiang Li, Jia-Cheng Huang, Guang-Ze Zhang, **Hao-En Li**, Chang-Su Cao, Dingshun Lv, and Han-Shi Hu,

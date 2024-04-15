@@ -24,11 +24,13 @@ E-mail:
 
 **Quantum Chemistry and Electronic Structure Theory**: Wave function methods; Quantum many-body physics; Quantum algorithms for science; Theory of quantum information & computing;
 
-## Publications📚
+## Publications and Preprints📚
 
 See [Publications](pubs.md)
 
 ## Scholarships and Awards🥇
+
++ **(Apr. 2024)** The Annual Figure of Department of Chemistry, Tsinghua University
 
 - **(Oct. 2023)** Jiang Nanxiang Scholarship
 - **(Sep. 2023)** Youth Student Basic Research Program of National Natural Science Foundation of China
