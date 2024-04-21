@@ -51,4 +51,4 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [5. Planarity](documents/graph5.pdf)
 
-+ [6. Colorings]()
++ [6. Colorings](documents/graph6.pdf)
