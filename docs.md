@@ -45,7 +45,7 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [2. Trees and Spanning Trees](documents/graph2.pdf)
 
-+ [3. Euler Problems and Hamiltonian Problems]()
++ [3. Euler Problems and Hamiltonian Problems](documents/graph3.pdf)
 
 + [4. Matchings](documents/graph4.pdf)
 
