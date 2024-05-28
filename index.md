@@ -1,4 +1,4 @@
-Welcome to my homepage! Please feel free to look around.
+Hey there! Welcome to my homepage. Take a peek around!
 
 ## About me
 
@@ -29,6 +29,4 @@ E-mail:
 >
 > <center>登高壮观天地间，大江茫茫去不还。
 > </center><center>黄云万里动风色，白波九道流雪山。</center>
-
-
 
