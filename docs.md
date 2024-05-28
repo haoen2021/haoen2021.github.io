@@ -4,8 +4,7 @@ title: Learning Notes
 permalink: /docs/
 ---
 ><center>龙喷水声连击磬，猿啼月色闲持经。<center>
->
-><center>时人不解非凡境，试入玄关一夜听。<center>
+>    <center>时人不解非凡境，试入玄关一夜听。<center>
 
 + **Undergraduate learning**
 
