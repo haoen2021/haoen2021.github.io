@@ -14,9 +14,7 @@ permalink: /docs/
 
 + Gao’s Lectures on Gaokao Mathematics
 
-  > After graduating from senior high school, I complied the following manuscripts based on the teachings of my math teacher and the notes I took in classes. Last updated in July 2022.
+  > After graduating from senior high school, I compiled the following manuscripts based on the teachings of my math teacher and the notes I took in classes. Last updated in July 2022.
   >
-  > [Volume 1](documents/Vol1X.pdf)
-  >
-  > [Volume 2](documents/Vol2X.pdf)
+  > [Volume 1](documents/Vol1X.pdf)	[Volume 2](documents/Vol2X.pdf)
 
