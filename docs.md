@@ -17,4 +17,6 @@ permalink: /docs/
   > After graduating from senior high school, I compiled the following manuscripts based on the teachings of my math teacher and the notes I took in classes. Last updated in July 2022.
   >
   > [Volume 1](documents/Vol1X.pdf)	[Volume 2](documents/Vol2X.pdf)
+  >
+  > Dedicated to the old precious days of my high school years, to the one I loved during that time, and to the sincere emotions that belong solely to the realm of youth.
 
