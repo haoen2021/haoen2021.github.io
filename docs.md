@@ -21,5 +21,3 @@ permalink: /docs/
   > Dedicated to the old precious days of my high school years, to the one I loved during that time, and to the sincere emotions that belong solely to the realm of youth.
 
 > 法华山在会稽南四十里。晋义熙十三年，僧昙翼栖此，诵《法华经》，颇有灵感。晋贤见，乃置寺，因以为名。梁天鉴中，昭明太子送金缕袈裟，红银缾、瑠璃钵各一副至会昌寺，废大中复兴，改寺额曰“天衣山”。有十峯双涧，崷崪澄澈，颇快登览，古今多有纪咏云。——《会稽掇英总集》
-
-[test](test.md)
