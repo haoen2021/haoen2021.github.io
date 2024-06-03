@@ -12,7 +12,7 @@ title: "Markdown 中使用 MathJax 渲染行内公式示例"
 # Markdown 中使用 MathJax 渲染行内公式示例
 
 
-这是一个行内公式示例：$ E = mc^2 $。
+这是一个行内公式示例：$$ E = mc^2 $$。
 
 $$
 f(z)=z^2+z+1
