@@ -25,7 +25,7 @@ E-mail:
 ## Education🏫
 
 - **(2021.9-2025.6, expected)** B.Sc. in **Chemistry**, Tsinghua University (advisor: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en))
-- **(2022.9-2025.6, expected)** Minor Degree in **Pure and Applied Mathematics**, Tsinghua University
+- **(2022.9-2025.6, expected)** B.Sc. in **Pure and Applied Mathematics** (as secondary major), Tsinghua University
 
 ## Research Interests🤔
 
@@ -46,7 +46,7 @@ See [Publications](pubs.md)
 - **(Dec. 2022)** Excellent Comprehensive Scholarship of Tsinghua University
 - **(Dec. 2022)** Excellent Academic Scholarship of Tsinghua University
 - **(Sep. 2021)** Second-Class Freshmen Scholarship of Tsinghua University
-- **(Nov. 2020)** Gold in Chinese Chemistry Olympiad (final), 2020 (34th CChO)
+- **(Nov. 2020)** Gold in The 34th Chinese Chemistry Olympiad (final), 2020 (34th CChO)
 
 ## Serving Experience😊
 

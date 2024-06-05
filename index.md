@@ -17,7 +17,7 @@ E-mail:
 ## Education
 
 - (2021.9-2025.6, expected) B.Sc. in **Chemistry**, Tsinghua University (advisor: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en))
-- (2022.9-2025.6, expected) Minor Degree in **Pure and Applied Mathematics**, Tsinghua University
+- (2022.9-2025.6, expected) B.Sc. in **Pure and Applied Mathematics** (as secondary major), Tsinghua University
 
 ## Research Interests
 
