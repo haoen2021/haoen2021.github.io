@@ -57,9 +57,9 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [8. Introduction to Spectral Graph Theory](documents/graph8.pdf)
 
-+ [9. Binomial Coefficients, The Principle of Inclusion and Exclusion, The Pigeonhole Principle and Ramsey Theory](comb1.pdf)
++ [9. Binomial Coefficients, The Principle of Inclusion and Exclusion, The Pigeonhole Principle and Ramsey Theory](documents/comb1.pdf)
 
-+ [10. Recurrence, Generating Functions and Inversion Formulae](comb2.pdf)
++ [10. Recurrence, Generating Functions and Inversion Formulae](documents/comb2.pdf)
 
-+ [11. Pólya's Theory of Counting](comb3.pdf)
++ [11. Pólya's Theory of Counting](documents/comb3.pdf)
 
