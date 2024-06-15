@@ -53,7 +53,7 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [6. Colorings](documents/graph6.pdf)
 
-+ [7. Introduction to Extremal Graph Theory](documents/graph8.pdf)
++ [7. Introduction to Extremal Graph Theory](documents/graph7.pdf)
 
 + [8. Introduction to Spectral Graph Theory](documents/graph8.pdf)
 
