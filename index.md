@@ -32,5 +32,5 @@ E-mail:
 ## My Photo⭐
 > <center><img src="profile.png" style="zoom:33%;" /></center>
 >
-> <p style="text-align: center;">In front of the lawn of Tsinghua University's auditorium, with [Wooper](https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pok%C3%A9mon))
+> <p style="text-align: center;">In front of the lawn of Tsinghua University's auditorium, with Wooper
 
