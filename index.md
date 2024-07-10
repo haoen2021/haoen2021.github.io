@@ -32,5 +32,5 @@ E-mail:
 ## My Photo⭐
 > <center><img src="profile.png" style="zoom:33%;" /></center>
 >
-> <p style="text-align: center;">In front of the lawn of Tsinghua University's auditorium, with Wooper
+> <p style="text-align: center;">In front of the Tsinghua University's auditorium
 
