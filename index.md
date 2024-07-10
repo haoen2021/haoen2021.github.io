@@ -28,9 +28,3 @@ E-mail:
 >
 > <center>登高壮观天地间，大江茫茫去不还。
 > </center><center>黄云万里动风色，白波九道流雪山。</center>
-
-## My Photo⭐
-> <center><img src="profile.png" style="zoom:33%;" /></center>
->
-> <p style="text-align: center;">In front of the Tsinghua University's auditorium
-
