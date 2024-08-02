@@ -28,7 +28,7 @@ E-mail:
 
 ## Research Interests🤔
 
-**Quantum Chemistry and Electronic Structure Theory**: Wave function methods; Quantum many-body physics; Quantum algorithms for science; Theory of quantum information & computing;
+Electronic structure theory; Quantum many-body physics/chemistry; Quantum algorithms for science; Numerical Analysis
 
 ## Publications and Preprints📚
 
