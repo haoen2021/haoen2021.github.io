@@ -10,7 +10,7 @@ E-mail:
 
 ``haoenli2021 (at) gmail (dot) com``
 
-**See the [About](about.md) module to know more about me or see my [curriculum vitae](documents/CV.pdf) for detailed information.**
+**See the [About](about.md) module to know more about me or see my [curriculum vitae](documents/CV(07_2024).pdf) for detailed information.**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=zh-CN)**
 

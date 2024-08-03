@@ -18,7 +18,7 @@ E-mail:
 
 `haoenli2021 (at) gmail (dot) com`
 
-[Curriculum Vitae](documents/CV.pdf) (Latest Updated: Feb. 2024)
+[Curriculum Vitae](documents/CV(07_2024).pdf) (Latest Updated: Jul. 2024)
 
 [Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=zh-CN)
 
