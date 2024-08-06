@@ -26,6 +26,10 @@ E-mail:
 
 - **(2021.9-2025.6, expected)** B.Sc. in **Chemistry** and B.Sc. in **Mathematics** (as secondary major), **Tsinghua University** (advisor: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en))
 
+## Work Experience💼
+
++ **(2024.7-2024.9)** Visiting Undergraduate Student at Dept. of Mathematics, University of California, Berkeley, USA (advisor: [Lin Lin](https://math.berkeley.edu/~linlin/))
+
 ## Research Interests🤔
 
 Electronic structure theory; Quantum many-body physics/chemistry; Quantum algorithms for science; Numerical Analysis
