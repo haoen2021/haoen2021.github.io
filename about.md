@@ -55,5 +55,7 @@ See [Publications](pubs.md)
 
 + **(2022.10 - Now)** Special grade assistant at [**Drop-in Tutoring for STEM Courses**](https://learning.tsinghua.edu.cn/info/1077/1260.htm) of [**Tsinghua University Center for Student Learning and Development**](https://learning.tsinghua.edu.cn/info/1159/1389.htm) (*Excellent assistant* in 2023 Spring)
 + **(2023.5 - 2024.5\)** Head of the Academic and Student Rights Department of the Student Union at Department of Chemistry, Tsinghua University (*Excellent Student Cadre of Tsinghua University* in 2023)
-+ **(2023.8 - 2024.8, expected)** Editor of “*Chemistry Xuetang*” (化学学堂, the **WeChat offcial account publicity platform** of Tsinghua Xuetang Chemistry Program)
++ **(2023.8 - Now)** Editor of *Chemistry Xuetang* (化学学堂, the **WeChat offcial account publicity platform** of Tsinghua Xuetang Chemistry Program)
++ **(2023.6 - 2024.6)** Vice President of the Tsinghua University Student Anhui Culture Association (清华大学学生徽文化交流协会)
++ **(2022, 2023)** Tsinghua University Anhui Admissions Group
 
