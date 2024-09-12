@@ -10,7 +10,7 @@ permalink: /about/
 
 ## About me🐦
 
-I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
+I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
 E-mail:
 
@@ -28,9 +28,11 @@ E-mail:
 
 ## Work Experience💼
 
-+ **(2024.7-2024.9)** Visiting Undergraduate Student at Dept. of Mathematics, University of California, Berkeley, USA (advisor: [Lin Lin](https://math.berkeley.edu/~linlin/))
++ **(2024.7-2024.9)** **Visiting Undergraduate Student** at **Dept. of Mathematics**, **UC Berkeley**, USA (advisor: [Lin Lin](https://math.berkeley.edu/~linlin/))
 
 ## Research Interests🤔
+
+My current work mainly focuses on a **wide range of topics** related to **quantum many-body physics** and **quantum chemistry**. I'm trained quite **mathematically** during my undergraduate studies, which lead me to develop a fascination with **the mathematical foundations of infinite dimensional quantum theory** (functional analysis and operator algebras, etc.) and understanding quantum many-body problems from the perspective of **modern numerical computational methods**.
 
 Electronic structure theory; Quantum many-body physics/chemistry; Quantum algorithms for science; Numerical Analysis
 

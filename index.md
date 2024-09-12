@@ -2,7 +2,7 @@ Hey there, welcome to my homepage!
 
 ## About me
 
-My name is Haoen Li (李昊恩). I am now a junior undergraduate student at Dept. of Chemistry, Tsinghua University.
+My name is Haoen Li (李昊恩). I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
 E-mail:
 
