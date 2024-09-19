@@ -42,6 +42,8 @@ See [Publications](pubs.md)
 
 ## Scholarships and Awards🥇
 
++ **(Sep. 2024)** Excellent League Member of Tsinghua University
+
 + **(Apr. 2024)** The Annual Figure of Department of Chemistry, Tsinghua University
 
 - **(Oct. 2023)** Jiang Nanxiang Scholarship
