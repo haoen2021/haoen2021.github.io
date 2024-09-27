@@ -24,7 +24,7 @@ E-mail:
 
 ## Education🏫
 
-- **(2021.9-2025.6, expected)** B.Sc. in **Chemistry** and B.Sc. in **Mathematics** (as secondary major), **Tsinghua University** (advisor: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry) and [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics))
+- **(2021.9-2025.6, expected)** B.Sc. in **Chemistry** and B.Sc. in **Mathematics** (as secondary major), **Tsinghua University** (advisors: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry), [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics))
 
 ## Work Experience💼
 
