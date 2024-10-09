@@ -22,7 +22,7 @@ E-mail:
 
 ## Research Interests
 
-Electronic structure theory; Quantum many-body physics/chemistry; Quantum algorithms for science; Numerical Analysis
+**[read more](about.md)**
 
 > <center><img src="guanzhong.jpg" style="zoom:33%;" /></center>
 >
