@@ -2,7 +2,7 @@ Hey there, welcome to my homepage!
 
 ## About me
 
-My name is Haoen Li (李昊恩). I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
+My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&text=%E6%9D%8E%E6%98%8A%E6%81%A9&op=translate)). I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
 E-mail:
 
