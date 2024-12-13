@@ -69,7 +69,7 @@ See [Publications](pubs.md)
 + **(2023.6 - 2024.6)** Vice President of the Tsinghua University Student Anhui Culture Association (清华大学学生徽文化交流协会)
 + **(2022, 2023)** Tsinghua University Anhui Admissions Group
 
-><center>小阁重帘有燕过，晚花红片落庭莎。曲阑干影入凉波。<center>
-><center>一霎好风生翠幕，几回疏雨滴圆荷。酒醒人散得愁多。<center>
+><center>北陇田高踏水频，西溪禾早已尝新。隔墙沽酒煮纤鳞。<center>
+><center>忽有微凉何处雨，更无留影霎时云。卖瓜声过竹边村。<center>
 
->   《珠玉词》温润敦厚，精致雅量，深得“乐而不淫，哀而不伤”之诗旨，累年把玩，爱不能释。偶录“小阁”句于此，盖以自遣兼自勉耳。
+>   宋宁宗嘉泰三年，稼轩起知绍兴府兼浙东安抚使。过常山道中，作《浣溪沙》，温润敦厚，深得“乐而不淫，哀而不伤”之诗旨，累年把玩，爱不能释。偶录“北陇”句于此，盖以自遣兼自勉耳。
