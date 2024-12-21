@@ -14,6 +14,10 @@ permalink: /docs/
 
   > These notes partially document my undergraduate studies (from 2021 to 2025).
 
+
++ Talk slides
+  + Open quantum Systems: A Mathematical Introduction, Simulations and Algorithmic Applications, [YMSC Quantum Seminar](https://ymsc.tsinghua.edu.cn/info/1053/4023.htm), Dec. 2024 [[slides](documents/slides/YMSC_2412.pdf)]
+
 + Gao’s Lectures on Gaokao Mathematics
 
   > After graduating from senior high school, I compiled the following manuscripts based on the teachings of my math teacher and the notes I took in classes. Last updated in July 2022.
