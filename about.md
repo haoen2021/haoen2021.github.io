@@ -19,11 +19,16 @@ E-mail:
 
 ## Education🏫
 
-- **(2021.9-2025.6, expected)** B.Sc. in **Chemistry** and B.Sc. in **Mathematics** (as secondary major), **Tsinghua University** (advisors: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry), [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics))
+- (2021.9-2025.6, expected) **Tsinghua University** 
+  + B.Sc. in **Chemistry** and B.Sc. in **Mathematics** (as secondary major)
+  + Advisors: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry), [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics)
 
 ## Work Experience💼
 
-+ **(2024.7-2024.9)** **Visiting Undergraduate Student** at **Dept. of Mathematics**, **UC Berkeley**, USA (advisor: [Lin Lin](https://math.berkeley.edu/~linlin/))
++ (2024.7-2024.9) **University of California, Berkeley**
+  + Visiting Undergraduate Student at **Dept. of Mathematics**
+  + Advisor: [Lin Lin](https://math.berkeley.edu/~linlin/)
+
 
 ## Research Interests🤔
 
