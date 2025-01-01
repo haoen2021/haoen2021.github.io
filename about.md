@@ -51,6 +51,8 @@ See [Publications](pubs.md)
 
 ## Scholarships and Awards🥇
 
++ **(Dec. 2024)** 2023-2024 Beijing Merit Student
+
 + **(Nov. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
 
 + **(Sep. 2024)** Excellent League Member of Tsinghua University
