@@ -10,21 +10,13 @@ E-mail:
 
 ``haoenli2021 (at) gmail (dot) com``
 
-**[read more](about.md) or see my [curriculum vitae (lastest updated: Jul. 2024)](documents/CV(07_2024).pdf) for detailed information.**
+**[read more](about.md) **
 
 **[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=zh-CN)**
 
 **[Publications and Preprints](pubs.md)**
 
-## Education
 
-- (2021.9-2025.6, expected) **Tsinghua University** 
-  + B.Sc. in **Chemistry** ands B.Sc. in **Mathematics** (as secondary major)
-  + Advisors: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry), [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics)
-
-## Research Interests
-
-**[read more](about.md)**
 
 > <center><img src="guanzhong.jpg" style="zoom:33%;" /></center>
 >
