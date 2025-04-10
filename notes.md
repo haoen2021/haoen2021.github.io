@@ -63,3 +63,8 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [11. Pólya's Theory of Counting](documents/comb3.pdf)
 
+## Other Reading Topics
+
++ [Linear response theory and density functional perturbation theory](documents/LinearResponseTheory.pdf)
+
++ [Kreiss matrix theorem](documents/KreissMatrixTheorem.pdf)
