@@ -49,6 +49,8 @@ See [Publications](pubs.md)
 
 ## Scholarships and Awards🥇
 
++ **(Apr. 2025)** The Annual Figure of Department of Chemistry, Tsinghua University
+
 + **(Dec. 2024)** 2023-2024 Beijing Merit Student
 
 + **(Nov. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
