@@ -12,7 +12,7 @@ E-mail:
 
 **[read more](about.md)**
 
-**[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=zh-CN)**
+**[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=en-US)**
 
 **[Publications and Preprints](pubs.md)**
 
