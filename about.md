@@ -24,13 +24,7 @@ E-mail:
 
 ## Research Interests🤔
 
-I am trained quite **mathematically** during my undergraduate studies, which leads me to develop a pretty strong fascination with understanding quantum many-body problems arising in chemistry, physics, and materials science, through the lens of modern numerical computational methods or their mathematical foundations.
-
-Specifically, my current work mainly focuses on a **wide range of topics** related to **quantum physics** and **quantum chemistry**, including but not restricted to:
-
-+ Electronic structure theory
-+ Computational quantum many-body physics
-+ Quantum algorithms for scientific computing
+I develop a pretty strong fascination with understanding quantum many-body problems arising in chemistry, physics, and materials science, through the lens of modern numerical computational methods or their mathematical foundations. Specifically, my current work mainly focuses on a **wide range of topics** related to **quantum physics** and **quantum chemistry**, including but not restricted to (1) electronic structure theory; (2) computational quantum many-body physics; (3) quantum algorithms for scientific computing
 
 ## Publications and Preprints📚
 
