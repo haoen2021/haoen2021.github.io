@@ -69,3 +69,4 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [Kreiss matrix theorem](documents/KreissMatrixTheorem.pdf)
 
++ [Kreiss matrix theorem](documents/LogSobolev.pdf)
