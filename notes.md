@@ -69,4 +69,4 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [Kreiss matrix theorem](documents/KreissMatrixTheorem.pdf)
 
-+ [Kreiss matrix theorem](documents/LogSobolev.pdf)
++ [Log-Sobolev inequalities for quantum Markovian semigroups on finite dimensional spaces](documents/LogSobolev.pdf)
