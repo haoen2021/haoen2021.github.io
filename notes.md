@@ -63,6 +63,11 @@ This course contains two parts: [graph theory](https://en.wikipedia.org/wiki/Gra
 
 + [11. Pólya's Theory of Counting](documents/comb3.pdf)
 
+
+## Quantum Inequalities (2025 Spring)
+
+These [notes](documents/Notes_on_Matrix_Analysis.pdf) were taken when I attended the Tsinghua course lectured by Prof. Jinsong Wu (BIMSA) in 2025 Spring.
+
 ## Other Reading Topics
 
 + [Linear response theory and density functional perturbation theory](documents/LinearResponseTheory.pdf)
