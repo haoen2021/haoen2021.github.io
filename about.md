@@ -32,20 +32,15 @@ See [Publications](pubs.md)
 
 ## Scholarships and Awards🥇
 
-+ **(Apr. 2025)** The Annual Figure of Department of Chemistry, Tsinghua University
-
 + **(Dec. 2024)** 2023-2024 Beijing Merit Student
-
 + **(Nov. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
-
 + **(Sep. 2024)** Excellent League Member of Tsinghua University
-
-+ **(Apr. 2024)** The Annual Figure of Department of Chemistry, Tsinghua University
++ **(Apr. 2025, Apr. 2024)** The Annual Figure of Department of Chemistry, Tsinghua University
 
 - **(Oct. 2023)** Jiang Nanxiang Scholarship
 - **(Sep. 2023)** Youth Student Basic Research Program of National Natural Science Foundation of China
 - **(Sep. 2023)** Excellent Student Cadre of Tsinghua University
-- **(Dec. 2022)** Scholarship of Tsinghua Xuetang Talents Program
+- **(Dec. 2024, Dec. 2023, Dec. 2022)** Scholarship of Tsinghua Xuetang Talents Program
 - **(Dec. 2022)** Excellent Comprehensive Scholarship of Tsinghua University
 - **(Dec. 2022)** Excellent Academic Scholarship of Tsinghua University
 - **(Sep. 2021)** Second-Class Freshmen Scholarship of Tsinghua University
