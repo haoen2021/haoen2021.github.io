@@ -32,8 +32,8 @@ See [Publications](pubs.md)
 
 ## Scholarships and Awards🥇
 
-+ **(Dec. 2024)** 2023-2024 Beijing Merit Student
-+ **(Nov. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
++ **(Feb. 2025)** 2023-2024 Beijing Merit Student
++ **(Dec. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
 + **(Sep. 2024)** Excellent League Member of Tsinghua University
 + **(Apr. 2025, Apr. 2024)** The Annual Figure of Department of Chemistry, Tsinghua University
 
