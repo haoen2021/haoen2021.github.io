@@ -31,7 +31,9 @@ I develop a pretty strong fascination with understanding quantum many-body probl
 See [Publications](pubs.md)
 
 ## Scholarships and Awards🥇
-
++ **(Jun. 2025)** Tsinghua University Outstanding Undergraduate Thesis Award
++ **(Jun. 2025)** T.P. Hou Award
++ **(Jun. 2025)** Outstanding Graduate of Tsinghua University
 + **(Feb. 2025)** 2023-2024 Beijing Merit Student
 + **(Dec. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
 + **(Sep. 2024)** Excellent League Member of Tsinghua University
