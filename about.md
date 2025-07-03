@@ -17,7 +17,7 @@ E-mail:
 
 ## Education🏫
 
-- (2021.9-2025.6, expected) **Tsinghua University, Beijing, China** 
+- (2021.9-2025.6) **Tsinghua University, Beijing, China** 
   + B.S. Chemistry and B.S. Mathematics
   + Advisors: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry), [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics)
 
