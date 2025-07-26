@@ -22,13 +22,9 @@ E-mail:
   + Advisors: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry), [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics)
 
 
-## Research Interests🤔
+## Research🤔
 
-I develop a pretty strong fascination with understanding quantum many-body problems arising in chemistry, physics, and materials science, through the lens of modern numerical computational methods or their mathematical foundations. Specifically, my current work mainly focuses on a **wide range of topics** related to **quantum physics** and **quantum chemistry**, including but not restricted to (1) electronic structure theory; (2) computational quantum many-body physics; (3) quantum algorithms for scientific computing
-
-## Publications and Preprints📚
-
-See [Publications](pubs.md)
+See [Research](pubs.md)
 
 ## Scholarships and Awards🥇
 + **(Jun. 2025)** Tsinghua University Outstanding Undergraduate Thesis Award
