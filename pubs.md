@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Publications and Preprints
+title: Research
 permalink: /pubs/
 ---
+## Research Interest
+
+I develop a pretty strong fascination with understanding quantum many-body problems arising in chemistry, physics, and materials science, through the lens of modern numerical computational methods or their mathematical foundations. Specifically, my current work mainly focuses on a **wide range of topics** related to **quantum physics** and **quantum chemistry**, including but not restricted to (1) electronic structure theory; (2) computational quantum many-body physics; (3) quantum algorithms for scientific computing
+
+## Publications and Preprints
+
 + Jia-Cheng Huang\*, **Hao-En Li\***, Yi-Cheng Wang, Guang-Ze Zhang, Jun Li, Han-Shi Hu, "Towards robust variational quantum simulation of Lindblad dynamics via stochastic Magnus expansion", [[arXiv:2503.22099](https://arxiv.org/abs/2503.22099)]
 + Rundi Lu, **Hao-En Li**, Zhengwei Liu, Jin-Peng Liu, "Infinite-dimensional Extension of the Linear Combination of Hamiltonian Simulation: Theorems and Applications," [[arXiv:2502.19688](http://arxiv.org/abs/2502.19688)]
 + **Hao-En Li**, Yongtao Zhan, Lin Lin, "Dissipative ground state preparation in ab initio electronic structure theory," [[arXiv:2411.01470](https://arxiv.org/abs/2411.01470)] 
