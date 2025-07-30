@@ -77,3 +77,5 @@ These [notes](documents/Notes_on_Matrix_Analysis.pdf) were taken when I attended
 + [Log-Sobolev inequalities for quantum Markovian semigroups on finite dimensional spaces](documents/LogSobolev.pdf), see also Eric Carlen's [notes](https://arxiv.org/abs/2306.10903)
 
 + [Conditional expectations onto \*-subalgebras and convexity inequalities](documents/conditional expectation and convex inequ.pdf)
+
++ [Convergence of Fourier series](documents/converge_fourier.pdf)
