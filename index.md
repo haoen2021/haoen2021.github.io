@@ -12,7 +12,7 @@ My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl
 
 **[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=en-US)**
 
-**[Publications and Preprints](pubs.md)**
+**[Research](pubs.md)**
 
 
 
