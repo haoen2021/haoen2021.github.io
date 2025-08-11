@@ -7,14 +7,6 @@ permalink: /about/
 
 I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-E-mail:
-
-`lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`
-
-`haoenli2021 (at) gmail (dot) com`
-
-[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=en-US)
-
 ## Education🏫
 
 - (2021.9-2025.6) **Tsinghua University, Beijing, China** 
