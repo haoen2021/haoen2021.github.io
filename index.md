@@ -8,7 +8,7 @@ My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl
 
 ``haoenli2021 (at) gmail (dot) com``
 
-**[read more](about.md)**
+**[Read More](about.md)**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=en-US)**
 
