@@ -6,7 +6,7 @@ My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl
 
 E-mail:
 
-`lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`
+``haoen2021 (at) math (dot) berkeley (dot) edu``
 
 ``haoenli2021 (at) gmail (dot) com``
 
