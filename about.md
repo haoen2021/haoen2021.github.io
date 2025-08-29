@@ -7,33 +7,23 @@ permalink: /about/
 
 I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-E-mail:
-
-`lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`
-
-`haoenli2021 (at) gmail (dot) com`
-
-[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=en-US)
-
 ## Education🏫
 
-- (2021.9-2025.6, expected) **Tsinghua University, Beijing, China** 
+- (2021.9-2025.6) **Tsinghua University, Beijing, China** 
   + B.S. Chemistry and B.S. Mathematics
   + Advisors: [Han-Shi Hu](https://scholar.google.com/citations?user=W2sG5oEAAAAJ&hl=en) (Chemistry), [Jin-Peng Liu](https://www.jin-peng-liu.me/) (Mathematics)
 
 
-## Research Interests🤔
+## Research🤔
 
-I develop a pretty strong fascination with understanding quantum many-body problems arising in chemistry, physics, and materials science, through the lens of modern numerical computational methods or their mathematical foundations. Specifically, my current work mainly focuses on a **wide range of topics** related to **quantum physics** and **quantum chemistry**, including but not restricted to (1) electronic structure theory; (2) computational quantum many-body physics; (3) quantum algorithms for scientific computing
-
-## Publications and Preprints📚
-
-See [Publications](pubs.md)
+See [Research](pubs.md)
 
 ## Scholarships and Awards🥇
-
 + **(Jun. 2025)** Excellent graduate of Tsinghua University
 
++ **(Jun. 2025)** Tsinghua University Outstanding Undergraduate Thesis Award
++ **(Jun. 2025)** T.P. Hou Award
++ **(Jun. 2025)** Outstanding Graduate of Tsinghua University
 + **(Feb. 2025)** 2023-2024 Beijing Merit Student
 + **(Dec. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
 + **(Sep. 2024)** Excellent League Member of Tsinghua University

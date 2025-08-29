@@ -1,20 +1,18 @@
 Hey there, welcome to my homepage!
 
-## About me
+My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl=auto&tl=en&text=%E6%9D%8E%E6%98%8A%E6%81%A9&op=translate)). I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
 
-My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?hl=zh-cn&sl=auto&tl=zh-CN&text=%E6%9D%8E%E6%98%8A%E6%81%A9&op=translate)). I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
+**E-mails:**
 
-E-mail:
-
-`lhe21 (at) mails (dot) tsinghua (dot) edu (dot) cn`
+``haoen2021 (at) math (dot) berkeley (dot) edu``
 
 ``haoenli2021 (at) gmail (dot) com``
 
-**[read more](about.md)**
+**[Read More](about.md)**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=en-US)**
 
-**[Publications and Preprints](pubs.md)**
+**[Research](pubs.md)**
 
 
 
