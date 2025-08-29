@@ -5,24 +5,15 @@ permalink: /about/
 ---
 ## About me🐦
 
-<<<<<<< Updated upstream
-I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
-
-## Education🏫
-
-- (2021.9-2025.6) **Tsinghua University, Beijing, China** 
-=======
 I am currently a [graduate student](https://math.berkeley.edu/people/graduate-students) in [Department of Mathematics, University of California, Berkeley](https://math.berkeley.edu/). I am fortunate to be supervised by Professor [Lin Lin](https://math.berkeley.edu/~linlin/).
 
 ## Education🏫
 
-+ (2025.8-now) **University of California, Berkeley, USA**
++ (2025.8-present) **University of California, Berkeley, USA**
   + Ph.D. Applied Mathematics
 
 - (2021.9-2025.6) **Tsinghua University, China** 
->>>>>>> Stashed changes
   + B.S. Chemistry and B.S. Mathematics
-
 
 ## Research🤔
 
@@ -31,14 +22,9 @@ See [Research](pubs.md)
 [Google Scholar](https://scholar.google.com/citations?user=vIwrc6AAAAAJ&hl=en-US)
 
 ## Scholarships and Awards🥇
-<<<<<<< Updated upstream
-+ **(Jun. 2025)** Excellent graduate of Tsinghua University
-=======
-
-+ **(Jun. 2025)** MPS (Math and Physical Sciences) Dean's Office Graduate Fellowship
++ **(Jun. 2025)** MPS (Math and Physical Sciences) Dean's Office Graduate Fellowship, UC Berkeley
 
 + **(Jun. 2025)** Excellent Graduate of Tsinghua University
->>>>>>> Stashed changes
 
 + **(Jun. 2025)** Tsinghua University Outstanding Undergraduate Thesis Award
 + **(Jun. 2025)** T.P. Hou Award

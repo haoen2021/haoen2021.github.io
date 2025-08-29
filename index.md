@@ -1,16 +1,10 @@
-Hey there, welcome to my homepage!
+Welcome to my homepage!
 
-My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl=auto&tl=en&text=%E6%9D%8E%E6%98%8A%E6%81%A9&op=translate)). I am now a senior undergraduate student at Dept. of Chemistry, Tsinghua University.
+My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl=auto&tl=en&text=%E6%9D%8E%E6%98%8A%E6%81%A9&op=translate)). I am currently a [graduate student](https://math.berkeley.edu/people/graduate-students) in [Department of Mathematics, University of California, Berkeley](https://math.berkeley.edu/). I am fortunate to be supervised by Professor [Lin Lin](https://math.berkeley.edu/~linlin/).
 
-<<<<<<< Updated upstream
-**E-mails:**
-=======
-I am currently a [graduate student](https://math.berkeley.edu/people/graduate-students) in [Department of Mathematics, University of California, Berkeley](https://math.berkeley.edu/). I am fortunate to be supervised by Professor [Lin Lin](https://math.berkeley.edu/~linlin/).
->>>>>>> Stashed changes
+**Office:** 854 Evans Hall
 
-``haoen2021 (at) math (dot) berkeley (dot) edu``
-
-``haoenli2021 (at) gmail (dot) com``
+**Email:** ``haoen2021 (at) math (dot) berkeley (dot) edu``
 
 **[Read More](about.md)**
 

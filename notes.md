@@ -66,8 +66,6 @@ These [notes](documents/Notes_on_Matrix_Analysis.pdf) were taken when I attended
 
 ## Other Reading Topics
 
-+ [Convergence of Fourier series](documents/converge_fourier.pdf)
-
 + [Kreiss matrix theorem](documents/KreissMatrixTheorem.pdf)
 
 + [Linear response theory and density functional perturbation theory](documents/LinearResponseTheory.pdf)
