@@ -2,7 +2,7 @@ title: Haoen Li
 #description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 #author: Shangzhi Huang
 avatar: /sire.png
-
+email: ""
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
