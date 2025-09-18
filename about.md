@@ -23,12 +23,9 @@ See [Research](pubs.md)
 
 ## Scholarships and Awards🥇
 + **(Jun. 2025)** MPS (Math and Physical Sciences) Dean's Office Graduate Fellowship, UC Berkeley
-
 + **(Jun. 2025)** Excellent Graduate of Tsinghua University
-
 + **(Jun. 2025)** Tsinghua University Outstanding Undergraduate Thesis Award
 + **(Jun. 2025)** T.P. Hou Award
-+ **(Jun. 2025)** Outstanding Graduate of Tsinghua University
 + **(Feb. 2025)** 2023-2024 Beijing Merit Student
 + **(Dec. 2024)** 2024 Tsinghua University Special Scholarship (Undergraduate)
 + **(Sep. 2024)** Excellent League Member of Tsinghua University

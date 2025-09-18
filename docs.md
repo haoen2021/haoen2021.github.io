@@ -21,4 +21,4 @@ permalink: /docs/
 > <center>山为莲宫作画屏，楼台迤逦插青冥。<center>
 > <center>云生座底铺金地，风起松梢韵宝铃。<center>
 > <center>龙喷水声连击磬，猿啼月色闲持经。<center>
-> <center>时人不解非凡境，试入玄关一夜听。<center>
+> <center>时人不信非凡境，试入玄关一夜听。<center>
