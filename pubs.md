@@ -14,9 +14,10 @@ I develop a pretty strong fascination with understanding quantum many-body probl
 [arXiv webpage](https://arxiv.org/a/li_h_23.html)
 
 + Rundi Lu, **Hao-En Li**, Zhengwei Liu, Jin-Peng Liu, "Infinite-dimensional Extension of the Linear Combination of Hamiltonian Simulation: Theorems and Applications" [[arXiv:2502.19688](http://arxiv.org/abs/2502.19688)]
-+ **Hao-En Li**, Yongtao Zhan, Lin Lin, "Dissipative ground state preparation in ab initio electronic structure theory" [[arXiv:2411.01470](https://arxiv.org/abs/2411.01470)]
 
 ### Peer-reviewed Papers
+
++ **Hao-En Li**, Yongtao Zhan, Lin Lin, "Dissipative ground state preparation in ab initio electronic structure theory" **npj Quantum Inf. 2025, in press.** [[arXiv:2411.01470](https://arxiv.org/abs/2411.01470)]
 
 + Jia-Cheng Huang\*, **Hao-En Li\***, Yi-Cheng Wang, Guang-Ze Zhang, Jun Li, Han-Shi Hu, "Towards robust variational quantum simulation of Lindblad dynamics via stochastic Magnus expansion" **PRX Quantum 2025, in press.** [[arXiv:2503.22099](https://arxiv.org/abs/2503.22099)] [[doi](https://doi.org/10.1103/yyln-q22s)]
 
