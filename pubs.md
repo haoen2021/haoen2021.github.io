@@ -17,7 +17,7 @@ I develop a pretty strong fascination with understanding quantum many-body probl
 
 ### Peer-reviewed Papers
 
-+ **Hao-En Li**, Yongtao Zhan, Lin Lin, "Dissipative ground state preparation in ab initio electronic structure theory" **npj Quantum Inf. 2025, in press.** [[arXiv:2411.01470](https://arxiv.org/abs/2411.01470)]
++ **Hao-En Li**, Yongtao Zhan, Lin Lin, "Dissipative ground state preparation in ab initio electronic structure theory" **npj Quantum Inf. 2025, in press.** [[arXiv:2411.01470](https://arxiv.org/abs/2411.01470)] [[doi](https://doi.org/10.1038/s41534-025-01124-8)]
 
 + Jia-Cheng Huang\*, **Hao-En Li\***, Yi-Cheng Wang, Guang-Ze Zhang, Jun Li, Han-Shi Hu, "Towards robust variational quantum simulation of Lindblad dynamics via stochastic Magnus expansion" **PRX Quantum 2025, in press.** [[arXiv:2503.22099](https://arxiv.org/abs/2503.22099)] [[doi](https://doi.org/10.1103/yyln-q22s)]
 
