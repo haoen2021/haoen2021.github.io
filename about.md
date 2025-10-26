@@ -9,10 +9,10 @@ I am currently a [graduate student](https://math.berkeley.edu/people/graduate-st
 
 ## Education🏫
 
-+ (2025.8-present) **University of California, Berkeley, USA**
++ (2025.8-present) **University of California, Berkeley**, Berkeley, California, USA
   + Ph.D. Applied Mathematics
 
-- (2021.9-2025.6) **Tsinghua University, China** 
+- (2021.9-2025.6) **Tsinghua University**, Beijing, China
   + B.S. Chemistry and B.S. Mathematics
 
 ## Research🤔
