@@ -16,6 +16,7 @@ My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl
 
 > <center><img src="guanzhong.jpg" style="zoom:33%;" /></center>
 >
-> 吴冠中《雪山》（1996）
+> <center> 吴冠中《雪山》（1996）</center>
 >
-> 登高壮观天地间，大江茫茫去不还。黄云万里动风色，白波九道流雪山。——【唐】李白《庐山谣寄卢侍御虚舟》
+> <center> 登高壮观天地间，大江茫茫去不还。黄云万里动风色，白波九道流雪山。</center>
+> <p align="right">——【唐】李白《庐山谣寄卢侍御虚舟》</p>
