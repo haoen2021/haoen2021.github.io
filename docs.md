@@ -6,6 +6,7 @@ permalink: /docs/
 ## Notes
 
 + See the **[course notes](notes.md)** I took as an undergraduate (2021-2025).
++ See the **[course notes](notes_grad.md)** I took as a graduate student (starting in 2025).
 
 ## Links
 
