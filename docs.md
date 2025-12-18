@@ -17,7 +17,6 @@ permalink: /docs/
 + [Computing and Mathematical Sciences (CMS), Caltech](https://www.cms.caltech.edu/)
 + [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/homepage)
 + [arXiv](https://arxiv.org/); [SciRate](https://scirate.com/)
-+ **Friends:** [Yixun Hu](https://yixun-hu.github.io/); [Yuxin Huang](https://scholar.google.com/citations?user=XEcaCD4AAAAJ&hl=en-us); (list to be updated)
 
 > 法华山在会稽南四十里。晋义熙十三年，僧昙翼栖此，诵《法华经》，颇有灵感。晋贤见，乃置寺，因以为名。梁天鉴中，昭明太子送金缕袈裟，红银缾、瑠璃钵各一副至会昌寺，废大中复兴，改寺额曰“天衣山”。有十峯双涧，崷崪澄澈，颇快登览，古今多有纪咏云。——【宋】孔延之《会稽掇英总集》
 > 
