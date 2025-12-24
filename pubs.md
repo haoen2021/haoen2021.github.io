@@ -15,6 +15,7 @@ My current research efforts are directed toward topics such as (1) electronic st
 
 [arXiv webpage](https://arxiv.org/a/li_h_23.html)
 
++ **HL**, Lin Lin, "Dissipative quantum algorithms for excited-state quantum chemistry" [[arXiv:2512.19870](http://arxiv.org/abs/2512.19870)]
 + Rundi Lu, **HL**, Zhengwei Liu, Jin-Peng Liu, "Infinite-dimensional Extension of the Linear Combination of Hamiltonian Simulation: Theorems and Applications" [[arXiv:2502.19688](http://arxiv.org/abs/2502.19688)]
 
 ### Peer-reviewed Papers
