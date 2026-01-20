@@ -1,6 +1,6 @@
 Welcome to my homepage!
 
-My name is Haoen Li (李昊恩, [pronunciation](https://translate.google.com/?sl=auto&tl=en&text=%E6%9D%8E%E6%98%8A%E6%81%A9&op=translate)). I am currently a [graduate student](https://math.berkeley.edu/people/graduate-students) in [Department of Mathematics, University of California, Berkeley](https://math.berkeley.edu/). I am fortunate to be supervised by Professor [Lin Lin](https://math.berkeley.edu/~linlin/).
+My name is Haoen Li (李昊恩). I am currently a [graduate student](https://math.berkeley.edu/people/graduate-students) in [Department of Mathematics, University of California, Berkeley](https://math.berkeley.edu/). I am fortunate to be supervised by Professor [Lin Lin](https://math.berkeley.edu/~linlin/).
 
 **Office:** 854 Evans Hall
 
