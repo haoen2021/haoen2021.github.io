@@ -3,6 +3,10 @@ layout: page
 title: Miscellaneous
 permalink: /docs/
 ---
+## Teaching
+
++ I am mentoring [Direct Reading Program (DRP)](https://wp.math.berkeley.edu/drp/program-overview/) on **Randomized Numerical Linear Alegbra** in Spring 2026
+
 ## Notes
 
 + See the **[course notes](notes.md)** I took as an undergraduate (2021-2025).
