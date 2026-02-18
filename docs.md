@@ -5,7 +5,7 @@ permalink: /docs/
 ---
 ## Teaching
 
-+ I am mentoring [Directed Reading Program (DRP)](https://wp.math.berkeley.edu/drp/program-overview/) on [**Randomized Numerical Linear Alegbra**](pages/rnla.md) in Spring 2026
++ I am mentoring [Directed Reading Program (DRP)](https://wp.math.berkeley.edu/drp/program-overview/) on [**Randomized Numerical Linear Algebra**](pages/rnla.md) in Spring 2026
 
 ## Notes
 
