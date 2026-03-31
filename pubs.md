@@ -5,9 +5,9 @@ permalink: /pubs/
 ---
 ## Research Interest
 
-I hope to deepen my understanding of quantum many-body problems arising from chemistry, physics, and materials science by combining **modern computational approaches** with their **mathematical foundations**. 
+I am interested in topics broadly related to **computational quantum many-body problems** arising from chemistry, material sciences and physics.
 
-My current research efforts are directed toward topics such as (1) electronic structure theory, (2) open quantum systems and dissipative state engineering, and (3) scientific computing methods for many-body physics.
+My current research efforts are directed toward (1) electronic structure theory, (2) open quantum systems and dissipative state engineering, and (3) scientific computing methods for many-body physics.
 
 ## Publications and Preprints
 
